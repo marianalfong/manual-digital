@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Inicio</title>
+  <link href="https://fonts.googleapis.com/css2?family=Albert+Sans:ital,wght@0,100..900;1,100..900&family=Anton&family=Antonio:wght@100..700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">  <link href="css/estilo.css" rel="stylesheet">
+</head>
+<header>
+    <div class="container">
+    <div class="encabezado">
+        <div class="logo">
+            <img src="https://www.iejomaco.edu.co/wp-content/uploads/2018/09/escudo-ie-jomaco-300w.jpg" alt="Descripción de la imagen" width="60px">  
+        </div>
+        <div class="jomaco">I. E JOSÉ MARÍA CÓRDOBA</div>
+        <div class="titulo">Manual Digital</div>
+    </div>
+    <div class="barra">
+        <div class="barra-botón">Inicio</div>
+        <div class="barra-botón">Normas</div>
+        <div class="barra-botón">PDF</div>
+    </div>
+</header>
+<body>
+<div class="contenedor">
+<div class="titulo">Institución Educativa José María Córdoba</div>
+<div class="subtitulo">“COMUNIDAD CORDOBISTA: COMPROMETIDA CON EL DESARROLLO PERSONAL Y
+    SOCIAL”</div>
+<div class="texto">La base de la formación de toda persona se adquiere en primera instancia en el hogar, en familia, la
+    Institución Educativa refuerza, complementa y ayuda en ese importante proceso. Los padres, madres
+    y maestros debemos unir esfuerzos alrededor de las niñas, niños adolescentes y jóvenes, para
+    ofrecerles una educación de calidad, como garantía de un futuro mejor.
+    </div>
+</div>
+</body>
+<footer>
+    <div class="barra-texto">
+        Página creada por Mariana Alfonso y Jésus Gómez
+    </div>
+</footer>
